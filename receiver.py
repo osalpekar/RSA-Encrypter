@@ -3,7 +3,6 @@ Receiver class does the following:
     - key generation
     - encryption
     - decryption
-
 '''
 from random import randint
 
